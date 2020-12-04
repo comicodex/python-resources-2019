@@ -321,3 +321,8 @@ community.
 open data packages.
 
 * [_ImageFu_](https://www.imagefu.com/) A good tool to create button images.
+
+# Resources
+https://guides.github.com/activities/hello-world/
+https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+https://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/
